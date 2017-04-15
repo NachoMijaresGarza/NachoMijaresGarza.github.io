@@ -1,0 +1,18 @@
+@font-face {
+	font-family: Chivo;
+	src: local("Chivo Regular"), local("Chivo-Regular"), url(http://fonts.gstatic.com/s/chivo/v8/2vOGounxqJdQZmH7ou5HpA.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Chivo;
+	src: local("Chivo Black"), local("Chivo-Black"), url(http://fonts.gstatic.com/s/chivo/v8/uOXSiKkEygwkvR4cgUzOz_esZW2xOQ-xsNqO47m55DA.woff) format("woff");
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: Chivo;
+	src: local("Chivo Italic"), local("Chivo-Italic"), url(http://fonts.gstatic.com/s/chivo/v8/qKyfSXgB_3owVhI0N_hEAQ.woff) format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
